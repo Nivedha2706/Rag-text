@@ -1,0 +1,101 @@
+feedback_id,customer_name,feedback_text,sentiment,issue_count,core_reason
+1,Karthik,"Amazing experience, highly recommended.",Positive,0,None
+2,Santhosh,Received a damaged product and replacement is slow.,Negative,2,Damaged product; Slow replacement
+3,Manoj,Delivery was on time and product quality is great.,Positive,0,None
+4,Hari,Customer service was rude and unhelpful.,Negative,1,Poor customer support
+5,Lakshmi,Everything was fine except tracking updates.,Neutral,1,Tracking issues
+6,Karthik,Payment was smooth but website was slow.,Neutral,1,Slow website
+7,Kumar,Website is fast and convenient.,Positive,0,None
+8,Lakshmi,Customer support resolved my issue quickly.,Positive,0,None
+9,Arun,Everything was fine except tracking updates.,Neutral,1,Tracking issues
+10,Suresh,"Amazing experience, highly recommended.",Positive,0,None
+11,Deepa,Product stopped working after one week.,Negative,1,Product malfunction
+12,Lakshmi,Wrong item was delivered.,Negative,1,Wrong item delivered
+13,Santhosh,The installation process was simple.,Positive,0,None
+14,Hari,Happy with the overall experience.,Positive,0,None
+15,Santhosh,Packaging was damaged on arrival.,Negative,1,Damaged packaging
+16,Bala,Easy to use and works perfectly.,Positive,0,None
+17,Lakshmi,Wrong item was delivered.,Negative,1,Wrong item delivered
+18,Priya,Excellent service and friendly staff.,Positive,0,None
+19,Manoj,Everything was fine except tracking updates.,Neutral,1,Tracking issues
+20,Suresh,Delivery was on time and product quality is great.,Positive,0,None
+21,Kumar,Customer service was rude and unhelpful.,Negative,1,Poor customer support
+22,Deepa,Customer service was rude and unhelpful.,Negative,1,Poor customer support
+23,Bala,Product is good but packaging was damaged.,Neutral,1,Damaged packaging
+24,Sneha,Delivery was delayed and support did not respond.,Negative,2,Delayed delivery; Poor customer support
+25,Manoj,Features are useful but interface is confusing.,Neutral,1,Poor user interface
+26,Manoj,Instructions were unclear and setup was difficult.,Negative,1,Unclear instructions
+27,Suresh,Customer service was rude and unhelpful.,Negative,1,Poor customer support
+28,Karthik,Quality is acceptable though delivery was late.,Neutral,1,Delayed delivery
+29,Bala,Received a damaged product and replacement is slow.,Negative,2,Damaged product; Slow replacement
+30,Meena,Features are useful but interface is confusing.,Neutral,1,Poor user interface
+31,Deepa,"Amazing experience, highly recommended.",Positive,0,None
+32,Priya,Product stopped working after one week.,Negative,1,Product malfunction
+33,Divya,"Amazing experience, highly recommended.",Positive,0,None
+34,Nisha,"Amazing experience, highly recommended.",Positive,0,None
+35,Deepa,Packaging was damaged on arrival.,Negative,1,Damaged packaging
+36,Meena,Website is fast and convenient.,Positive,0,None
+37,Kumar,Product is good but packaging was damaged.,Neutral,1,Damaged packaging
+38,Sneha,Website is fast and convenient.,Positive,0,None
+39,Hari,Instructions were unclear and setup was difficult.,Negative,1,Unclear instructions
+40,Ravi,Packaging was damaged on arrival.,Negative,1,Damaged packaging
+41,Suresh,Excellent service and friendly staff.,Positive,0,None
+42,Manoj,Customer support resolved my issue quickly.,Positive,0,None
+43,Deepa,Received a damaged product and replacement is slow.,Negative,2,Damaged product; Slow replacement
+44,Deepa,Good value for money.,Positive,0,None
+45,Raj,Customer support resolved my issue quickly.,Positive,0,None
+46,Sneha,Good value for money.,Positive,0,None
+47,Arun,Everything was fine except tracking updates.,Neutral,1,Tracking issues
+48,Deepa,Excellent service and friendly staff.,Positive,0,None
+49,Bala,Instructions were unclear and setup was difficult.,Negative,1,Unclear instructions
+50,Anitha,Wrong item was delivered.,Negative,1,Wrong item delivered
+51,Vignesh,Happy with the overall experience.,Positive,0,None
+52,Meena,Easy to use and works perfectly.,Positive,0,None
+53,Divya,Product stopped working after one week.,Negative,1,Product malfunction
+54,Hari,Features are useful but interface is confusing.,Neutral,1,Poor user interface
+55,Priya,Excellent service and friendly staff.,Positive,0,None
+56,Deepa,"Amazing experience, highly recommended.",Positive,0,None
+57,Arun,Delivery was delayed and support did not respond.,Negative,2,Delayed delivery; Poor customer support
+58,Anitha,Customer support resolved my issue quickly.,Positive,0,None
+59,Bala,Good value for money.,Positive,0,None
+60,Nisha,Instructions were unclear and setup was difficult.,Negative,1,Unclear instructions
+61,Manoj,Packaging was damaged on arrival.,Negative,1,Damaged packaging
+62,Manoj,Customer service was rude and unhelpful.,Negative,1,Poor customer support
+63,Divya,Happy with the overall experience.,Positive,0,None
+64,Karthik,The app crashes frequently and loses data.,Negative,2,App crashes; Data loss
+65,Karthik,Wrong item was delivered.,Negative,1,Wrong item delivered
+66,Deepa,Customer support resolved my issue quickly.,Positive,0,None
+67,Divya,Website is very slow and payment failed.,Negative,2,Slow website; Payment failure
+68,Bala,Happy with the overall experience.,Positive,0,None
+69,Priya,Quality is acceptable though delivery was late.,Neutral,1,Delayed delivery
+70,Vignesh,The app crashes frequently and loses data.,Negative,2,App crashes; Data loss
+71,Raj,The installation process was simple.,Positive,0,None
+72,Anitha,Delivery was delayed and support did not respond.,Negative,2,Delayed delivery; Poor customer support
+73,Divya,"Amazing experience, highly recommended.",Positive,0,None
+74,Nisha,Packaging was damaged on arrival.,Negative,1,Damaged packaging
+75,Anitha,Happy with the overall experience.,Positive,0,None
+76,Suresh,Good value for money.,Positive,0,None
+77,Ravi,Delivery was delayed and support did not respond.,Negative,2,Delayed delivery; Poor customer support
+78,Vignesh,The installation process was simple.,Positive,0,None
+79,Hari,Delivery was on time and product quality is great.,Positive,0,None
+80,Meena,Instructions were unclear and setup was difficult.,Negative,1,Unclear instructions
+81,Lakshmi,Website is very slow and payment failed.,Negative,2,Slow website; Payment failure
+82,Kumar,Customer support resolved my issue quickly.,Positive,0,None
+83,Bala,Very satisfied with the purchase.,Positive,0,None
+84,Ravi,The app crashes frequently and loses data.,Negative,2,App crashes; Data loss
+85,Kumar,Happy with the overall experience.,Positive,0,None
+86,Arun,Easy to use and works perfectly.,Positive,0,None
+87,Deepa,Received a damaged product and replacement is slow.,Negative,2,Damaged product; Slow replacement
+88,Karthik,Received a damaged product and replacement is slow.,Negative,2,Damaged product; Slow replacement
+89,Keerthi,Wrong item was delivered.,Negative,1,Wrong item delivered
+90,Anitha,Website is very slow and payment failed.,Negative,2,Slow website; Payment failure
+91,Lakshmi,Website is very slow and payment failed.,Negative,2,Slow website; Payment failure
+92,Arun,Customer service was rude and unhelpful.,Negative,1,Poor customer support
+93,Manoj,Delivery was delayed and support did not respond.,Negative,2,Delayed delivery; Poor customer support
+94,Santhosh,Packaging was damaged on arrival.,Negative,1,Damaged packaging
+95,Priya,Payment was smooth but website was slow.,Neutral,1,Slow website
+96,Raj,Customer service was rude and unhelpful.,Negative,1,Poor customer support
+97,Divya,Website is very slow and payment failed.,Negative,2,Slow website; Payment failure
+98,Anitha,Everything was fine except tracking updates.,Neutral,1,Tracking issues
+99,Anitha,Packaging was damaged on arrival.,Negative,1,Damaged packaging
+100,Bala,Delivery was delayed and support did not respond.,Negative,2,Delayed delivery; Poor customer support
