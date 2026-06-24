@@ -1,122 +1,75 @@
-
 <div align="center">
 
-# 🤖 RAG Document Chatbot
+# ✨ RAG Document Chatbot
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Retrieval+Augmented+Generation;Llama+3.2+%7C+ChromaDB+%7C+Ollama;Document+Summarization+and+Q%26A;Built+with+LangChain+and+Streamlit" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=RAG%20Document%20Chatbot&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Retrieval+Augmented+Generation;Llama+3.2+%7C+ChromaDB+%7C+Ollama;Document+Summarization+and+Q%26A;Built+with+LangChain+and+Streamlit"/>
+</p>
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
-![LangChain](https://img.shields.io/badge/LangChain-Framework-green?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-orange?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?style=for-the-badge)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🚀 System Workflow
+## 🚀 Features
 
-```text
-        📄 User Document
-               │
-               ▼
-     ┌─────────────────┐
-     │ Document Loader │
-     └─────────────────┘
-               │
-               ▼
-     ┌─────────────────┐
-     │ Text Splitter ✂ │
-     └─────────────────┘
-               │
-               ▼
-     ┌─────────────────┐
-     │ Embeddings 🧠   │
-     └─────────────────┘
-               │
-               ▼
-     ┌─────────────────┐
-     │ ChromaDB 💾     │
-     └─────────────────┘
-               │
-               ▼
-     ┌─────────────────┐
-     │ Retriever 🔍    │
-     └─────────────────┘
-               │
-               ▼
-     ┌─────────────────┐
-     │ Llama 3.2 🤖    │
-     └─────────────────┘
-               │
-               ▼
-        💬 Intelligent Answer
+✨ Multi-format Document Support
+🧠 Embeddings with `nomic-embed-text`
+💾 ChromaDB Vector Storage
+🔍 Semantic Retrieval
+🤖 Llama 3.2 : 3B Integration
+🌐 Streamlit Interface
+📚 Detailed Summarization
+💬 Question Answering
+
+---
+
+## ⚙️ Architecture
+
+```mermaid
+graph TD
+A[📄 User Document] --> B[✂️ Chunking]
+B --> C[🧠 Embeddings]
+C --> D[💾 ChromaDB]
+D --> E[🔍 Retriever]
+E --> F[🤖 Llama 3.2]
+F --> G[💬 Intelligent Answer]
 ```
 
 ---
 
-# ⚡ Features
-
-- 📄 PDF Support
-- 📝 DOCX Support
-- 📊 CSV Support
-- 📑 PPTX Support
-- ✂️ Automatic Chunking
-- 🧠 Embeddings with `nomic-embed-text`
-- 💾 ChromaDB Vector Store
-- 🔍 Semantic Search
-- 🤖 Llama 3.2 : 3B
-- 🌐 Streamlit UI
-- 📚 Document Summarization
-- 💬 Question Answering
-
----
-
-# 🖥️ Runtime Animation
-
-```text
-[██░░░░░░░░░░░░░░░░░░] 10%
-📂 Loading Document...
-
-[██████░░░░░░░░░░░░░] 30%
-✂️ Splitting Text...
-
-[██████████░░░░░░░░░] 50%
-🧠 Generating Embeddings...
-
-[██████████████░░░░░] 70%
-💾 Building Vector Database...
-
-[██████████████████░] 90%
-🔍 Retrieving Context...
-
-[████████████████████] 100%
-🤖 Ready to Answer Questions
-```
-
----
-
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```bash
-rag-document-chatbot
-│
-├── app.py
-├── ingest.py
-├── summary.py
-├── chat.py
-├── chroma_db/
-├── requirements.txt
-└── README.md
+📦 rag-document-chatbot
+ ┣ 📜 app.py
+ ┣ 📜 ingest.py
+ ┣ 📜 summary.py
+ ┣ 📜 chat.py
+ ┣ 📂 chroma_db
+ ┣ 📜 requirements.txt
+ ┗ 📜 README.md
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Powered+by+Llama+3.2;LangChain+%2B+ChromaDB+%2B+Ollama;Happy+Coding+🚀" />
+### 🌟 Powered By
+
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
 
 </div>
